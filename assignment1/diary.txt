@@ -1,0 +1,19 @@
+Date	    Start	Stop	Activity	    Comments
+2018/9/20   18:00   19:30   Coding          Implemented basic init and add functionality
+2018/9/23   23:23   23:32   Coding          Update init and add functions
+2018/9/25	13:00	13:23	Debugging       Matched specified outputs in add function
+2018/9/25	16:10	16.52	Coding	        Update commit function by matching the expected output 
+2018/9/25	17:40	18:09	Coding	        Implement show function (half way done)
+2018/9/25	18:40	19:00	Debugging	    Fix some error messages in show function
+2018/9/26	10:50	11:45	Debugging	    Solve the "nothing to commit" problem in commit function
+2018/9/26	12:30	13:03	Debugging	    Fix some bugs (subset0 finished)
+2018/9/28	16:50	17:04	Coding	        Understand how commit -a work and start coding it
+2018/9/28	17:30	17:58	Coding	        Finish implementing commit -a
+2018/9/28	19:30	21:00	Coding	        Implement remove function
+2018/9/29	9:50	11:30	Debugging	    Try to fix bugs in remove function but bug not found
+2018/9/29	16:00	18:15	Debugging	    Fix the bug in remove function and start doing status
+2018/9/30	9:30	11:30	Coding	        Coding status part
+2018/9/30	15:05	16:59	Debugging	    Fix all annoying bugs in status function
+2018/9/30   17:30   17:54   Debugging       Finish subset1 by fixing the conflicts in status and remove part
+2019/10/1   19:50   21:26   Coding          Write 5 tests for assignment and fix some bugs caused from my tests
+2019/10/3   12:50   13:48   Coding          Finish all ten tests
